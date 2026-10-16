@@ -1,1 +1,1 @@
-# task-manager-discord-rich-presence
+# Task manager Discord rich presence
