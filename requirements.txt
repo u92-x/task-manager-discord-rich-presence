@@ -1,0 +1,5 @@
+pypresence
+pygetwindow
+pywinauto
+psutil
+uiautomation
